@@ -21,7 +21,7 @@
 
 3. **推送代码到 GitHub**
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/new-year-ritual.git
+   git remote add origin https://github.com/zhuningli001/new-year-ritual.git
    git branch -M main
    git push -u origin main
    ```
